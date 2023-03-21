@@ -1,0 +1,14 @@
+body {
+background-color: rgb(150, 255, 150);
+}
+h1 {
+font-family: helvetica, "trebuchet ms", sans-serif;
+text-align: center;
+}
+div {
+text-align: center;
+}
+p {
+font-size: 20px;
+font-family: "trebuchet ms", arial, sans-serif;
+}
