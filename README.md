@@ -21,7 +21,7 @@ criação de css
   definição da fonte do parágrafo
 finalização do css
 criação do javascript
-  definição das variáveis "mine" ligada e "fotos"
+  definição das variáveis "mine" e "fotos"
   criação de um evento click na div
   definição da variável foto com Math.random
   definição da função que faz a imagem trocar aleatóriamente
